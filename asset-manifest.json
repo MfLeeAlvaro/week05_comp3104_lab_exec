@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/week05_comp3104_lab_exec/static/css/main.f855e6bc.css",
+    "main.js": "/week05_comp3104_lab_exec/static/js/main.dd2e5dba.js",
+    "static/js/453.af5c1166.chunk.js": "/week05_comp3104_lab_exec/static/js/453.af5c1166.chunk.js",
+    "index.html": "/week05_comp3104_lab_exec/index.html",
+    "main.f855e6bc.css.map": "/week05_comp3104_lab_exec/static/css/main.f855e6bc.css.map",
+    "main.dd2e5dba.js.map": "/week05_comp3104_lab_exec/static/js/main.dd2e5dba.js.map",
+    "453.af5c1166.chunk.js.map": "/week05_comp3104_lab_exec/static/js/453.af5c1166.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dd2e5dba.js"
+  ]
+}
